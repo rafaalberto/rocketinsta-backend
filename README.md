@@ -7,3 +7,4 @@ Technologies: <br/>
 - Express framework
 - Mongoose (MongoDB)
 - Multer lib (makes upload)
+- Socket.io (Realtime notifications)
